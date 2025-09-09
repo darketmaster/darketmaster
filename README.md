@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Development video games<br>👯 I’m looking to collaborate on Development video games<br>💬 Ask me about Development video games<br>⚡ Fun fact
 
+A career that has evolved from over two decades of deep, hands-on programming in C/C++, C\#, and Perl into 15+ years of architectural and team leadership. As a Software Architect and Lead Game Programmer, I specialize in architecting scalable systems, defining technical roadmaps, and guiding teams from concept to deployment. My passion is solving high-impact challenges at the intersection of performance-critical code, cloud infrastructure, and immersive gameplay.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malopezt) 
