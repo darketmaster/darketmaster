@@ -19,7 +19,7 @@ As a **Software Architect & Lead Game Programmer**, I specialize in:
 
 ### 📄 Portfolio
 Explore my professional work and software architecture case studies:  
-👉 [Check my Portfolio](../professional-portfolio)
+👉 [Check my Portfolio](https://github.com/darketmaster/professional-portfolio.git)
 
 
 ## 🌐 Socials:
